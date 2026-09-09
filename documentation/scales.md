@@ -8,7 +8,7 @@ This is an overall score to indicate whether the product is good or bad.
 | 70 – 79 | Good |
 | 80 – 89 | Great |
 | 90 – 99 | Outstanding |
-| 100 | Beyond Perfection |
+| 100 | Absolutely impossible |
 
 > [!NOTE]
 > A score below 50 doesn't necessarily mean the project/product is terrible, it's just a personal assessment.
